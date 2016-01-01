@@ -1,0 +1,29 @@
+name: KSPublications
+favicon: null
+layout_spectrum: 0.05960486875846982
+typography_spectrum: 0.34349213703535497
+title: KSPublications
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6203713919967413
+  lightness: 0.9583253343589604
+  saturation: 0.42620016261935234
+  rhythmicContrast: 0.09622362442314625
+purpose: []
