@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T06:31:40.694Z'
-dateModified: '2016-01-01T06:31:26.189Z'
+datePublished: '2016-01-02T00:34:41.353Z'
+dateModified: '2016-01-02T00:34:21.444Z'
 title: 'Festivals & Celebrations in Islam'
 author: []
+sourcePath: _posts/2016-01-01-festivals-and-celebrations-in-islam.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-01-festivals-and-celebrations-in-islam.md
-published: true
 url: festivals-and-celebrations-in-islam/index.html
 _type: Article
 
